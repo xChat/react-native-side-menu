@@ -264,7 +264,7 @@ SideMenu.defaultProps = {
       prop,
       {
         toValue: value,
-        friction: 8,
+        friction: 10,
       }
     );
   },
